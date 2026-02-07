@@ -1,0 +1,39 @@
+# Byte-compiled / optimizado / archivos DLL
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Extensiones C
+*.so
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.env/
+.env.local
+
+# Informes de pruebas y cobertura
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Cuadernos de Jupyter
+.ipynb_checkpoints
+
+# Archivos de configuración locales
+*.log
+local_settings.py
+db.sqlite3   
